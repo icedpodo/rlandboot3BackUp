@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "mabatis.mapper-default-scope",
+  "type": "java.lang.String",
+  "description": "A description for 'mabatis.mapper-default-scope'"
+}]}
